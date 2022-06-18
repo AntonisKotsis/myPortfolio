@@ -4,6 +4,7 @@ import SocialsComponent from './SocialsComponent';
 
 import './header.css'
 import ProfPic from '../../assets/sample-man.png'
+
 const Header = () => {
   return (
     <header>
@@ -13,11 +14,12 @@ const Header = () => {
         <ContactButtons />
         <SocialsComponent />
 
-        
-        <div className='profile-image'>
+
+        <div className='profile__image'>
           <img src={ProfPic} alt="profile-pic" />
         </div>
-
+        
+        <a href="#contact" className='scroll__down'>Scroll Down</a>
       </div>
 
 
