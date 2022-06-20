@@ -7,20 +7,22 @@ import Nav from './components/nav_component/Nav'
 import Services  from './components/services_component/Services'
 import Portfolio from './components/portfolio_component/Portfolio'
 import Footer from './components/footer_component/Footer'
+import Terminal from './components/terminal_component/Terminal'
 
 const App = () => {
   return (
     <div>
 
-      <Header/>
+      {/* <Header/>
       <Nav/>
       <About/>
       <Experience/>
       <Services/>
       <Portfolio/>
       <Contact/>
-      <Footer/>
+      <Footer/> */}
 
+      <Terminal/>
 
     </div>
   )

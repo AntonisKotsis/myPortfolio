@@ -1,0 +1,58 @@
+
+.terminal{
+    height: 500px;
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0.4);
+    overflow: auto;
+    /* resize: both; */
+    border-radius: 0.5rem 0.5rem 0 0;
+
+}
+
+.centered{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    overflow: hidden;
+}
+
+.actionBar{
+    width: 600px;
+    height: 2rem;
+
+    border-radius: 0.5rem 0.5rem 0 0;
+
+    background-color: rgba(0, 0, 0, 0.3);
+
+    padding: 0.4rem 0.8rem ;
+    display: flex;
+    gap: 30rem;
+    backdrop-filter: blur(15px);
+}
+
+.left_icons{
+    width: 20%;
+    float: left;
+    
+}
+
+.right_icons{
+    width: 80%;
+    float: right;
+}
+
+
+.user_name{
+    font-size: medium;
+    padding-left: 0.5rem;
+}
+
+.user_name span {
+    color: #00ff99;
+}
+
+.input_box{
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    overflow-wrap: break-word;
+}
