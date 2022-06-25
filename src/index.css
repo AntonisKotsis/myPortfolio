@@ -61,7 +61,6 @@ h1{
 /* Each component will be one section */
 section{
     margin-top: 8rem;
-    height: 100vh;
 }
 
 /* Direct child of section */
