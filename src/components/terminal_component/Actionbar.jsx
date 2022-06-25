@@ -15,7 +15,7 @@ const Actionbar = () => {
             <div className="right_icons">
                 <a href=""><MdMinimize /></a>
                 <a href=""><VscChromeMaximize /></a>
-                <a href=""><AiOutlineCloseCircle /></a>
+                <a href=""><AiOutlineCloseCircle onClick={console.log("easy")}/></a>
             </div>
 
         </div>

@@ -56,3 +56,12 @@
     color: white;
     overflow-wrap: break-word;
 }
+
+#terminal_input{
+    resize: none;
+    margin:0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0);
+    caret-color: white;
+
+}

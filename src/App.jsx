@@ -4,7 +4,7 @@ import Contact from './components/contact_component/Contact'
 import Experience from './components/experience_component/Experience'
 import Header from './components/header_component/Header'
 import Nav from './components/nav_component/Nav'
-import Services  from './components/services_component/Services'
+import Services from './components/services_component/Services'
 import Portfolio from './components/portfolio_component/Portfolio'
 import Footer from './components/footer_component/Footer'
 import Terminal from './components/terminal_component/Terminal'
@@ -13,16 +13,16 @@ const App = () => {
   return (
     <div>
 
-      {/* <Header/>
-      <Nav/>
-      <About/>
-      <Experience/>
-      <Services/>
-      <Portfolio/>
-      <Contact/>
-      <Footer/> */}
+      <Header />
+      <Nav />
+      <About />
+      <Experience />
+      <Services />
+      <Portfolio />
+      <Contact />
+      <Footer />
 
-      <Terminal/>
+      {/* <Terminal/> */}
 
     </div>
   )
