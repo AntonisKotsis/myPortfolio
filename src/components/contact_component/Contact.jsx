@@ -14,8 +14,8 @@ const Contact = () => {
           <article className='contact_option'>
             <AiOutlineMail className='contact_option_icon'/>
             <h4>Email</h4>
-            <h5>fakemail@mymail.com</h5>
-            <a href="mailto:fakemail@mymail.com">Send me a mail</a>
+            <h5>AntonisKotsis@protonmail.com</h5>
+            <a href="mailto:AntonisKotsis@protonmail.com">Send me a mail</a>
           </article>
           {/* Messenger contact button */}
           <article className='contact_option'>
@@ -28,8 +28,8 @@ const Contact = () => {
           <article className='contact_option'>
             <BsWhatsapp className='contact_option_icon'/>
             <h4>WhatsApp</h4>
-            <h5>+123456</h5>
-            <a href="https://api.whatsapp.com/send?phone=+123456" target='_blank'>Send me a message</a>
+            <h5>+306947374921</h5>
+            <a href="https://api.whatsapp.com/send?phone=00306947374921" target='_blank'>Send me a message</a>
           </article>
         </div>
 

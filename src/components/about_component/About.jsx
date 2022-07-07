@@ -3,7 +3,8 @@ import './about.css'
 import {BiAward} from 'react-icons/bi'
 import {AiOutlineBook} from 'react-icons/ai'
 import {VscFolderLibrary} from 'react-icons/vsc'
-import SAMPLE_IMG from '../../assets/square-sample.png'
+import SAMPLE_IMG from '../../assets/1631375990116.jpeg'
+import SUMMARY from './summary'
 const About = () => {
   return (
     <section id='about'>
@@ -43,7 +44,7 @@ const About = () => {
 
           </div>
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet sagittis id consectetur </p>
+          <p>{SUMMARY}</p>
           <a href="#contact" className='btn btn-primary'>Get In Touch</a>
         </div>
       </div>

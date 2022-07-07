@@ -1,0 +1,4 @@
+const summary="I am a certified Software Engineer specializing in Android and web applications. Over my university years at UOI, Object-Oriented Programming and Algorithm's Efficiency got my attention. Since then, I've worked on many projects as a freelancer. Recently, I finished my duty at the Greek Army as a Private Software Developer contributing code and maintaining web apps. I also received a Letter of Recommendation from the Greek Army due to my excellent performance and work ethic under stressful situations. Now I'm studying the MERN stack, so I can expand my knowledge to the web applications field. Using the above technical skill set combined with my problem-solving and fast learning abilities as well as team player attitude and my constant willingness to help, I am able to add value and contribute to the company's achievements where I'll work."
+
+
+export default summary;
