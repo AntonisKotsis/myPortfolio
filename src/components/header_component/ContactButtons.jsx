@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assets/algorithms_certificate.pdf'
+import CV from '../../assets/Antonis_Mitos_Kotsis_-_Software_Engineer.pdf'
 
 function ContactButtons() {
   return (
