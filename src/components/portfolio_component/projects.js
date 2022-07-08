@@ -4,7 +4,7 @@ import IMG2 from '../../assets/pda.jpg'
 import IMG3 from '../../assets/sneaker-bots.jpeg'
 import IMG4 from '../../assets/text-to-speech.webp'
 import IMG5 from '../../assets/scrap2.png'
-import IMG6 from '../../assets/bj.jpg'
+import IMG6 from '../../assets/searchenginescompared.jpg'
 const projects=[
     {
         id:1,
@@ -39,8 +39,8 @@ const projects=[
     {
         id:6,
         image:IMG6,
-        title:"Black Jack",
-        github:"https://github.com/AntonisKotsis/BlackJack"
+        title:"Search Engine",
+        github:"https://github.com/AntonisKotsis/Search-Engine"
     },
 
 

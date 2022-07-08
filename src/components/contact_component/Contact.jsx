@@ -18,12 +18,12 @@ const Contact = () => {
             <a href="mailto:AntonisKotsis@protonmail.com">Send me a mail</a>
           </article>
           {/* Messenger contact button */}
-          <article className='contact_option'>
+          {/* <article className='contact_option'>
             <RiMessengerLine className='contact_option_icon' />
             <h4>Messenger</h4>
             <h5>fakeAccount</h5>
             <a href="https://facebook.com" target='_blank'>Send me a message</a>
-          </article>
+          </article> */}
           {/* Whatsapp contact button */}
           <article className='contact_option'>
             <BsWhatsapp className='contact_option_icon'/>
